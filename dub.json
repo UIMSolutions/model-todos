@@ -1,0 +1,19 @@
+{
+    "authors": ["UI Manufaktur UG"],
+    "copyright": "Copyright © 2017 - 2020, UI Manufaktur UG",
+    "description": "Model for todo applications",
+    "license": "MIT",
+    "name": "model-todos",
+    "sourcePaths": [
+        "../../LIBS/uim-core",
+        "../../LIBS/uim-oop",
+        "../../LIBS/uim-models",
+        "./"
+    ],
+    "importPaths": [
+        "../../LIBS/uim-core",
+        "../../LIBS/uim-oop",
+        "../../LIBS/uim-models",
+        "./"
+    ]
+}
