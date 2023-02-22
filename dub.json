@@ -1,8 +1,8 @@
 {
-    "authors": ["UI Manufaktur UG"],
+    "authors": ["Ozan Nurettin Süel (Sicherheitsschmiede)"],
     "copyright": "Copyright © 2017 - 2020, UI Manufaktur UG",
     "description": "Model for todo applications",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "name": "model-todos",
     "sourcePaths": [
         "../../LIBS/uim-core",
